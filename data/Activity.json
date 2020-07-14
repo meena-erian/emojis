@@ -1,0 +1,442 @@
+[
+  {
+    "emoji": "🕴",
+    "name": "Person in Suit Levitating"
+  },
+  {
+    "emoji": "🧗",
+    "name": "Person Climbing"
+  },
+  {
+    "emoji": "🧗‍♂️",
+    "name": "Man Climbing"
+  },
+  {
+    "emoji": "🧗‍♀️",
+    "name": "Woman Climbing"
+  },
+  {
+    "emoji": "🤺",
+    "name": "Person Fencing"
+  },
+  {
+    "emoji": "🏇",
+    "name": "Horse Racing"
+  },
+  {
+    "emoji": "⛷",
+    "name": "Skier"
+  },
+  {
+    "emoji": "🏂",
+    "name": "Snowboarder"
+  },
+  {
+    "emoji": "🏌",
+    "name": "Person Golfing"
+  },
+  {
+    "emoji": "🏌️‍♂️",
+    "name": "Man Golfing"
+  },
+  {
+    "emoji": "🏌️‍♀️",
+    "name": "Woman Golfing"
+  },
+  {
+    "emoji": "🏄",
+    "name": "Person Surfing"
+  },
+  {
+    "emoji": "🏄‍♂️",
+    "name": "Man Surfing"
+  },
+  {
+    "emoji": "🏄‍♀️",
+    "name": "Woman Surfing"
+  },
+  {
+    "emoji": "🚣",
+    "name": "Person Rowing Boat"
+  },
+  {
+    "emoji": "🚣‍♂️",
+    "name": "Man Rowing Boat"
+  },
+  {
+    "emoji": "🚣‍♀️",
+    "name": "Woman Rowing Boat"
+  },
+  {
+    "emoji": "🏊",
+    "name": "Person Swimming"
+  },
+  {
+    "emoji": "🏊‍♂️",
+    "name": "Man Swimming"
+  },
+  {
+    "emoji": "🏊‍♀️",
+    "name": "Woman Swimming"
+  },
+  {
+    "emoji": "⛹",
+    "name": "Person Bouncing Ball"
+  },
+  {
+    "emoji": "⛹️‍♂️",
+    "name": "Man Bouncing Ball"
+  },
+  {
+    "emoji": "⛹️‍♀️",
+    "name": "Woman Bouncing Ball"
+  },
+  {
+    "emoji": "🏋",
+    "name": "Person Lifting Weights"
+  },
+  {
+    "emoji": "🏋️‍♂️",
+    "name": "Man Lifting Weights"
+  },
+  {
+    "emoji": "🏋️‍♀️",
+    "name": "Woman Lifting Weights"
+  },
+  {
+    "emoji": "🚴",
+    "name": "Person Biking"
+  },
+  {
+    "emoji": "🚴‍♂️",
+    "name": "Man Biking"
+  },
+  {
+    "emoji": "🚴‍♀️",
+    "name": "Woman Biking"
+  },
+  {
+    "emoji": "🚵",
+    "name": "Person Mountain Biking"
+  },
+  {
+    "emoji": "🚵‍♂️",
+    "name": "Man Mountain Biking"
+  },
+  {
+    "emoji": "🚵‍♀️",
+    "name": "Woman Mountain Biking"
+  },
+  {
+    "emoji": "🤸",
+    "name": "Person Cartwheeling"
+  },
+  {
+    "emoji": "🤸‍♂️",
+    "name": "Man Cartwheeling"
+  },
+  {
+    "emoji": "🤸‍♀️",
+    "name": "Woman Cartwheeling"
+  },
+  {
+    "emoji": "🤼",
+    "name": "People Wrestling"
+  },
+  {
+    "emoji": "🤼‍♂️",
+    "name": "Men Wrestling"
+  },
+  {
+    "emoji": "🤼‍♀️",
+    "name": "Women Wrestling"
+  },
+  {
+    "emoji": "🤽",
+    "name": "Person Playing Water Polo"
+  },
+  {
+    "emoji": "🤽‍♂️",
+    "name": "Man Playing Water Polo"
+  },
+  {
+    "emoji": "🤽‍♀️",
+    "name": "Woman Playing Water Polo"
+  },
+  {
+    "emoji": "🤾",
+    "name": "Person Playing Handball"
+  },
+  {
+    "emoji": "🤾‍♂️",
+    "name": "Man Playing Handball"
+  },
+  {
+    "emoji": "🤾‍♀️",
+    "name": "Woman Playing Handball"
+  },
+  {
+    "emoji": "🤹",
+    "name": "Person Juggling"
+  },
+  {
+    "emoji": "🤹‍♂️",
+    "name": "Man Juggling"
+  },
+  {
+    "emoji": "🤹‍♀️",
+    "name": "Woman Juggling"
+  },
+  {
+    "emoji": "🧘",
+    "name": "Person in Lotus Position"
+  },
+  {
+    "emoji": "🧘‍♂️",
+    "name": "Man in Lotus Position"
+  },
+  {
+    "emoji": "🧘‍♀️",
+    "name": "Woman in Lotus Position"
+  },
+  {
+    "emoji": "🎪",
+    "name": "Circus Tent"
+  },
+  {
+    "emoji": "🛹",
+    "name": "Skateboard"
+  },
+  {
+    "emoji": "🛶",
+    "name": "Canoe"
+  },
+  {
+    "emoji": "🎗",
+    "name": "Reminder Ribbon"
+  },
+  {
+    "emoji": "🎟",
+    "name": "Admission Tickets"
+  },
+  {
+    "emoji": "🎫",
+    "name": "Ticket"
+  },
+  {
+    "emoji": "🎖",
+    "name": "Military Medal"
+  },
+  {
+    "emoji": "🏆",
+    "name": "Trophy"
+  },
+  {
+    "emoji": "🏅",
+    "name": "Sports Medal"
+  },
+  {
+    "emoji": "🥇",
+    "name": "1st Place Medal"
+  },
+  {
+    "emoji": "🥈",
+    "name": "2nd Place Medal"
+  },
+  {
+    "emoji": "🥉",
+    "name": "3rd Place Medal"
+  },
+  {
+    "emoji": "⚽",
+    "name": "Soccer Ball"
+  },
+  {
+    "emoji": "⚾",
+    "name": "Baseball"
+  },
+  {
+    "emoji": "🥎",
+    "name": "Softball"
+  },
+  {
+    "emoji": "🏀",
+    "name": "Basketball"
+  },
+  {
+    "emoji": "🏐",
+    "name": "Volleyball"
+  },
+  {
+    "emoji": "🏈",
+    "name": "American Football"
+  },
+  {
+    "emoji": "🏉",
+    "name": "Rugby Football"
+  },
+  {
+    "emoji": "🎾",
+    "name": "Tennis"
+  },
+  {
+    "emoji": "🥏",
+    "name": "Flying Disc"
+  },
+  {
+    "emoji": "🎳",
+    "name": "Bowling"
+  },
+  {
+    "emoji": "🏏",
+    "name": "Cricket Game"
+  },
+  {
+    "emoji": "🏑",
+    "name": "Field Hockey"
+  },
+  {
+    "emoji": "🏒",
+    "name": "Ice Hockey"
+  },
+  {
+    "emoji": "🥍",
+    "name": "Lacrosse"
+  },
+  {
+    "emoji": "🏓",
+    "name": "Ping Pong"
+  },
+  {
+    "emoji": "🏸",
+    "name": "Badminton"
+  },
+  {
+    "emoji": "🥊",
+    "name": "Boxing Glove"
+  },
+  {
+    "emoji": "🥋",
+    "name": "Martial Arts Uniform"
+  },
+  {
+    "emoji": "🥅",
+    "name": "Goal Net"
+  },
+  {
+    "emoji": "⛳",
+    "name": "Flag in Hole"
+  },
+  {
+    "emoji": "⛸",
+    "name": "Ice Skate"
+  },
+  {
+    "emoji": "🎣",
+    "name": "Fishing Pole"
+  },
+  {
+    "emoji": "🎽",
+    "name": "Running Shirt"
+  },
+  {
+    "emoji": "🎿",
+    "name": "Skis"
+  },
+  {
+    "emoji": "🛷",
+    "name": "Sled"
+  },
+  {
+    "emoji": "🥌",
+    "name": "Curling Stone"
+  },
+  {
+    "emoji": "🎯",
+    "name": "Direct Hit"
+  },
+  {
+    "emoji": "🎱",
+    "name": "Pool 8 Ball"
+  },
+  {
+    "emoji": "🎮",
+    "name": "Video Game"
+  },
+  {
+    "emoji": "🎰",
+    "name": "Slot Machine"
+  },
+  {
+    "emoji": "🎲",
+    "name": "Game Die"
+  },
+  {
+    "emoji": "🧩",
+    "name": "Puzzle Piece"
+  },
+  {
+    "emoji": "♟",
+    "name": "Chess Pawn"
+  },
+  {
+    "emoji": "🎭",
+    "name": "Performing Arts"
+  },
+  {
+    "emoji": "🎨",
+    "name": "Artist Palette"
+  },
+  {
+    "emoji": "🧵",
+    "name": "Thread"
+  },
+  {
+    "emoji": "🧶",
+    "name": "Yarn"
+  },
+  {
+    "emoji": "🎼",
+    "name": "Musical Score"
+  },
+  {
+    "emoji": "🎤",
+    "name": "Microphone"
+  },
+  {
+    "emoji": "🎧",
+    "name": "Headphone"
+  },
+  {
+    "emoji": "🎷",
+    "name": "Saxophone"
+  },
+  {
+    "emoji": "🎸",
+    "name": "Guitar"
+  },
+  {
+    "emoji": "🎹",
+    "name": "Musical Keyboard"
+  },
+  {
+    "emoji": "🎺",
+    "name": "Trumpet"
+  },
+  {
+    "emoji": "🎻",
+    "name": "Violin"
+  },
+  {
+    "emoji": "🥁",
+    "name": "Drum"
+  },
+  {
+    "emoji": "🎬",
+    "name": "Clapper Board"
+  },
+  {
+    "emoji": "🏹",
+    "name": "Bow and Arrow"
+  }
+]
