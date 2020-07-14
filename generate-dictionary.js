@@ -1,3 +1,8 @@
+/**
+ * This code merges all emojies into one object where emojies are the 
+ *  keys and values are the names of each emoji
+ */
+
 const fs = require('fs');
 
 
